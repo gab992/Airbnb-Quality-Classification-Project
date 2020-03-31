@@ -21,6 +21,7 @@ Python 3
   - Matplotlib  
   - Seaborn  
   - psycopg2  
+
 Tableau  
 PostgreSQL  
 AWS Ec2 instance  
