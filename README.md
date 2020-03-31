@@ -13,6 +13,18 @@ Note that I only used the listings.csv for NYC
 
 The data sets were all saved in a postgress database on an AWS ec2 instance.
 
+**Tools**  
+Python 3  
+  - Pandas  
+  - Numpy  
+  - SciKit Learn  
+  - Matplotlib  
+  - Seaborn  
+  - psycopg2  
+Tableau  
+PostgreSQL  
+AWS Ec2 instance  
+
 **Data Cleaning**  
 data_cleaning.ipynb is a jupyter notebook file with the code used to query and clean the necessary data for the project.  
 
