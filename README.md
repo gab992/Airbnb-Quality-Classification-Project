@@ -28,7 +28,7 @@ in the tableau dashboard for this project.
 **Implementation**  
 The product of this project was a tableau dashboard which allows a user to look at a map of Airbnb
 listings in NYC and filter listings based on a "quality assurance level." This value is the
-predicted probability from my random forest model that an Airbnb receive a high customer rating.
+predicted probability from my random forest model that an Airbnb will receive a high customer rating.
 Other filters on the dashboard include borough, neighborhood, and superhost status.  
 
 On the left of the dashboard are three histograms for three of the most important listing features
