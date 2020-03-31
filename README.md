@@ -18,7 +18,7 @@ data_cleaning.ipynb is a jupyter notebook file with the code used to query and c
 
 This notebook saves aibnb_FINAL.csv, which is the csv that is used as input for modeling.ipynb.
 
-**Modeling**
+**Modeling**  
 modeling.ipynb is a jupyter notebook file with the code for some feature engineering and the model training.
 The resulting model is a random forest model.
 
