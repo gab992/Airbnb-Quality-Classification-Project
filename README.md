@@ -1,17 +1,6 @@
 # Airbnb-Quality-Classification-Project
 I trained a random forest classification model to predict whether or not an Airbnb listing in NYC would be given a high rating based on both Airbnb data and NYC open data sets on art gallery locations and rodent inspections.  
 
-**Data Sources**  
-Data for this project came from three data sets across two sources.  
-
-[Airbnb listing data](http://insideairbnb.com/get-the-data.html)  
-Note that I only used the listings.csv for NYC
-
-[NYC open data on rodent inspections](https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj)
-
-[NYC open data on art gallery locations](https://data.cityofnewyork.us/Recreation/New-York-City-Art-Galleries/tgyc-r5jh)  
-
-The data sets were all saved in a postgress database on an AWS ec2 instance.
 
 **Tools**  
 Python 3  
@@ -25,6 +14,18 @@ Python 3
 Tableau  
 PostgreSQL  
 AWS Ec2 instance  
+
+**Data Sources**  
+Data for this project came from three data sets across two sources.  
+
+[Airbnb listing data](http://insideairbnb.com/get-the-data.html)  
+Note that I only used the listings.csv for NYC
+
+[NYC open data on rodent inspections](https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj)
+
+[NYC open data on art gallery locations](https://data.cityofnewyork.us/Recreation/New-York-City-Art-Galleries/tgyc-r5jh)  
+
+The data sets were all saved in a postgres database on an AWS ec2 instance.
 
 **Data Cleaning**  
 data_cleaning.ipynb is a jupyter notebook file with the code used to query and clean the necessary data for the project.  
